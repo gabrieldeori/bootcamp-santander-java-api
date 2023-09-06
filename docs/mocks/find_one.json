@@ -1,0 +1,55 @@
+{
+  "id": 1,
+  "name": "Devweekerson",
+  "account": {
+    "id": 1,
+    "number": "01.097954-4",
+    "agency": "2030",
+    "balance": 624.12,
+    "limit": 1000.00
+  },
+  "card": {
+    "id": 1,
+    "number": "xxxx xxxx xxxx 1111",
+    "limit": 2000.00
+  },
+  "features": [
+    {
+      "id": 1,
+      "icon": "",
+      "description": "PIX"
+    },
+    {
+      "id": 2,
+      "icon": "",
+      "description": "Pagar"
+    },
+    {
+      "id": 3,
+      "icon": "",
+      "description": "Transferir"
+    },
+    {
+      "id": 4,
+      "icon": "",
+      "description": "Conta Corrente"
+    },
+    {
+      "id": 5,
+      "icon": "",
+      "description": "Cartões"
+    }
+  ],
+  "news": [
+    {
+      "id": 2,
+      "icon": "",
+      "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 serviços pra você. Confira!"
+    },
+    {
+      "id": 1,
+      "icon": "",
+      "description": "O Santander tem soluções de crédito sob medida pra você. Confira!"
+    }
+  ]
+}
